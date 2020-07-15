@@ -19,8 +19,8 @@ def third_challenge
         ]
     }
    }
-   return epic_tragedy   
-  }
+   return epic_tragedy
+  
 
 
 end
